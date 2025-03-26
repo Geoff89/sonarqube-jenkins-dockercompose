@@ -1,4 +1,4 @@
-#### In case of error Elasticsearch exited unexpectedly with exit code 78
+#### In case of error Elasticsearch exited unexpectedly with exit code 78 while starting `docker-compose up -d` for sonarqube docker-compose files:
 #### Possible causes can be
 - Insufficient File Descriptors (ulimit setting)
 - can increase file descriptor limit using `ulimit`.
