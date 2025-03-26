@@ -1,5 +1,5 @@
-#### in case of error Elasticsearch exited unexpectedly with exit code 78
-### Possible causes can be
+#### In case of error Elasticsearch exited unexpectedly with exit code 78
+#### Possible causes can be
 - Insufficient File Descriptors (ulimit setting)
 - can increase file descriptor limit using `ulimit`.
 - Checking current limi `ulimit -n`.
